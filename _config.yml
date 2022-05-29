@@ -9,7 +9,7 @@ plugins:
 #-------------------------------
 # General Site Settings
 title: Ena Ibeh
-description: "Hi I'm Ena, and I'm a Data Analyst based in New York, NY. I am passionate about providing value through analytics, data visualization, and process improvement. Please connect with me on LinkedIn for analytics business inquiries"
+description: "Hi I'm Ena, and I'm a Data Analyst with an environmental and efficiency background based in New York, NY. I want to provide organizational value through data-informed analytics and visualization within the environmental and sustainability field, preferably. Connect with me on LinkedIn for inquiries."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
