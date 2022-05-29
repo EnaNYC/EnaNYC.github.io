@@ -8,22 +8,22 @@ plugins:
 
 #-------------------------------
 # General Site Settings
-title: Kedeisha Bryan
-description: "Hi I'm Kedeisha, and I'm a Data Analyst based in Marietta, GA. I am passionate about providing value through analytics, data visualization, and process improvement. Please connect with me on LinkedIn for analytics business inquiries"
+title: Ena Ibeh
+description: "Hi I'm Ena, and I'm a Data Analyst based in New York, NY. I am passionate about providing value through analytics, data visualization, and process improvement. Please connect with me on LinkedIn for analytics business inquiries"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 #-------------------------------
 # About Section
 subtitle: Data Science <span style="color:#add8e6"> Portfolio </span>
-location: "Marietta, GA"
-resume_url: /docs/Kedeisha_Bryan_Resume_PDF.pdf
-avatar_image: /img/Kedeisha Bryan Headshot Upload.jpg
+location: "New York, NY"
+resume_url: /docs/Ena Ibeh_ Data Analyst_RESUME.pdf
+avatar_image: /img/Ena_Ibeh.jpg
 
 #------------------------------- 
 # Contact links
-linkedln: "https://www.linkedin.com/in/kedeishabryan/" # Add your linkedln handle
-github: "https://github.com/kedeisha1#"  # Add your github handle
+linkedln: "https://www.linkedin.com/in/ena-ibeh/" # Add your linkedln handle
+github: "https://github.com/EnaNYC"  # Add your github handle
 
 paginate: 6
 paginate_path: "/page/:num"
